@@ -1,6 +1,6 @@
 - 👋 Hi, my name is João Vitor
 - 👀 I’m interested in web development
-- 🌱 Studying MEVN stack
+- 🌱 Working with PHP
 - 📫 My linkedin: https://www.linkedin.com/in/jo%C3%A3o-vitor-fernandes-2b5711170/
 
 <!---
